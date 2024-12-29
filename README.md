@@ -46,7 +46,7 @@ I’m passionate about building solutions 🛠️ and learning through meaningfu
     - HTML, CSS, JavaScript
 
 
-### Secure Chatbot**: Ensured security and privacy in user interactions.
+### 🤖Secure Chatbot: Ensured security and privacy in user interactions.
 
 ### 🧩 Safe Multithreaded Memory Allocator in C++
 - **Safe Multithreaded Memory Allocator**: Developed a memory allocator in C++ that supports multithreading, ensuring thread safety and optimized performance.
