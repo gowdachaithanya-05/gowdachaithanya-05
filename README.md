@@ -1,6 +1,5 @@
 # 👋 Hey there, I’m Chaithanya R. (@gowdachaithanya-05)
 
-![Welcome Image](https://github.com/gowdachaithanya-05/gowdachaithanya-05/blob/main/assets/welcome.gif)
 
 Welcome to my GitHub! 🎉 I love turning ideas into reality, whether through big projects or fun side ventures. 🌟
 
