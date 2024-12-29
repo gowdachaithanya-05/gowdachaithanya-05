@@ -78,7 +78,7 @@ Focusing on DevOps projects 🚀 and combining tech with business ideas! 💼
 ## 📄 Resume & Connect
 
 - [📄 **My Resume**](https://drive.google.com/file/d/15WTm5UphmKKDMIzvZMSsS8s_LPC7OGcM/view?usp=sharing) 📄
-- [🔗 **LinkedIn**]() 🔗
+- [🔗 **LinkedIn**](www.linkedin.com/in/chaithanya-r-3a442b25a) 🔗
 
 ---
 
