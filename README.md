@@ -61,10 +61,8 @@ Focusing on DevOps projects 🚀 and combining tech with business ideas! 💼
 
 ## 🏆 Achievements
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gowdachaithanya-05&theme=dark)
 ![LeetCode](https://leetcard.jacoblin.cool/gowdachaithanya-05?theme=dark&ext=heat)
 
-- **📈 GitHub Streak**: Maintaining a consistent coding streak!
 - **🧩 LeetCode**: Solved 50+ problems to enhance my algorithm skills.
 
 ### 🏅 Achievements in SAP Hackfest
