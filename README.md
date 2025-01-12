@@ -4,7 +4,6 @@
 Welcome to my GitHub! 🎉 I love turning ideas into reality, whether through big projects or fun side ventures. 🌟
 
 ---
-
 ## 🌟 About Me
 
 I’m passionate about building solutions 🛠️ and learning through meaningful projects. 🌱
